@@ -31,7 +31,7 @@ module.exports = {
     extensions: [ '.tsx', '.ts', '.js' ],
   },
   node: {
-    fs: "empty"
+    fs: false
   },
 
   output: {
